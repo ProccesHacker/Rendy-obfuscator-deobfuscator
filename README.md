@@ -26,8 +26,6 @@ from deobf import process_data_2
 process_data_2("obfuscated.py")
 ```
 
-По умолчанию результат сохраняется рядом с исходным файлом с префиксом `XAT_`.
-
 ## Обфускатор
 Исходный обфускатор - https://t.me/rendyobfuscator_bot
 
